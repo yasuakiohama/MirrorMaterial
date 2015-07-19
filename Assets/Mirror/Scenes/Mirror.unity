@@ -188,7 +188,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1021681496}
-  m_RootOrder: 1
+  m_RootOrder: 0
 --- !u!23 &464400725
 Renderer:
   m_ObjectHideFlags: 0
@@ -369,7 +369,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1021681496}
-  m_RootOrder: 0
+  m_RootOrder: 1
 --- !u!114 &913784270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -407,8 +407,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: -.100000001}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 913784269}
   - {fileID: 464400723}
+  - {fileID: 913784269}
   m_Father: {fileID: 0}
   m_RootOrder: 1
 --- !u!1 &1527871979
